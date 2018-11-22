@@ -13,6 +13,8 @@ navbar:
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
+    - text: "Publications"
+      href: publication.html
     - text: "Blog"
       icon: fa-rss
       href: https://jbryois.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
