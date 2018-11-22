@@ -14,7 +14,7 @@ navbar:
       icon: fa-file-pdf-o
       href: cv.html
     - text: "Publications"
-      href: publication.html
+      href: publications.html
     - text: "Blog"
       icon: fa-rss
       href: https://jbryois.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 

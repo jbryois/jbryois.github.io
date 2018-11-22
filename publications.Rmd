@@ -1,0 +1,7 @@
+---
+title: "Publications"
+
+bibliography: bibliography.bib
+nocite: | 
+  @Savage2018, @Skene2018, @Coleman, @Nguyen135293, @Kim2017,@Yilmaz2017, @Xia2017,@Bryois2017, @Bryois2014,@Gutierrez-Arcelus2015, @Villanueva2014, @Gutierrez-Arcelus2013, @Kilpinen2013,  @Hens2011
+---
