@@ -2,14 +2,5 @@
 title: "Welcome to my website!"
 ---
 
-# R Code
 
-It's nice with R markdown as you can directly put your R code
-
-```{r,message=FALSE}
-library(tidyverse)
-```
-
-```{r}
-ggplot(diamonds,aes(cut,price,fill=cut)) + geom_boxplot() + theme_classic()
-```
+Website under construction
