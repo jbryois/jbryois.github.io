@@ -2,6 +2,4 @@
 title: "About me"
 ---
 
-## Header
-
-Say more about you here.
+I am a postdoctoral researcher in psychiatric genomcis at Karolinska Institutet with Prof. Patrick Sullivan. I am interested in understanding the molecular causes of neuropsychiatric disorders. I believe that the first step is to understand which cell types are relevant. Therefore, I am integrating GWAS summary statistics with single cell RNA-seq in order to identify cell types underlying neuropsychiatric disorders.
